@@ -27,9 +27,7 @@ For example, if there are 4 stones in the heap, then you will never win the game
 ```
 
 bool canWinNim(int n) {
-
     return (n%4!=0);
-
 }
 
 ```
