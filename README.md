@@ -2,6 +2,8 @@
 
 [7-Reverse Integer(翻转整数)](https://github.com/yaowenqing/leetcode/blob/master/codes/7-ReverseInteger.md)
 
+[35-Search Insert Position(在有序数组中寻找插入数字的位置)](https://github.com/yaowenqing/leetcode/blob/master/codes/35-SearchInsertPosition.md)
+
 [38-Count and Say(念着说的序列)](https://github.com/yaowenqing/leetcode/blob/master/codes/38-CountAndSay.md)
 
 [48-Rotate Image(二维矩阵翻转90度)](https://github.com/yaowenqing/leetcode/blob/master/codes/48-RotateImage.md) 
