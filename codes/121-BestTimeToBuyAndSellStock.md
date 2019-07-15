@@ -9,14 +9,6 @@ Output: 5
 max. difference = 6-1 = 5 (not 7-1 = 6, as selling price needs to be larger than buying price)
 
 
-
-Example:
->Given n = 5, and version = 4 is the first bad version.
-call isBadVersion(3) -> false
-call isBadVersion(5) -> true
-call isBadVersion(4) -> true 
-Then 4 is the first bad version. 
-
 思路：二分查找，找到序列中的第一个不合格的产品，代码如下（isBadVersion是题中已给函数）
 
 
