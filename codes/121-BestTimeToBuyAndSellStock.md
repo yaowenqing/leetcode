@@ -21,9 +21,11 @@ If you were only permitted to complete at most one transaction (ie, buy one and 
 
 给定一个数组，数组中下标为i的元素表示第i天的股票的价钱。在只完成一笔交易的前提下，输出获得的最大利润。
 
-解题思路：看代码即可看懂。
+### 解题思路
 
+用minPrice维护从前向后遍历的时候最便宜的股票，用maxPro来维护当前股票价钱与最便宜的股票的价钱之差
 
+### 代码
 ```
 int maxProfit(vector<int>& prices) {
         int maxPro=0,minPrice=INT_MAX;
