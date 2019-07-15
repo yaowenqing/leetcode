@@ -14,6 +14,8 @@ Given nums = [3,2,2,3], val = 3,
 该例子应该返回整数2，代表数组的前两位是所需要的数字，此时的数组为[2,2]。 
 和26题的基本思路是完全一致的。
 
+### 代码
+
 ```
 int removeElement(vector<int>& nums, int val) {
         int sign=0;
