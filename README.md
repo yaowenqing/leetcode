@@ -2,6 +2,8 @@
 
 [48-Rotate Image(二维矩阵翻转90度)](https://github.com/yaowenqing/leetcode/blob/master/codes/48-RotateImage.md) 
 
+[83-Remove Duplicates From Sorted List(移除有序链表中的重复元素)](https://github.com/yaowenqing/leetcode/blob/master/codes/83-RemoveDuplicatesFromSortedList.md)
+
 [88-Merge Sorted Array(合并两个有序数组)](https://github.com/yaowenqing/leetcode/blob/master/codes/88-MergeSortedArray.md)
 
 [118-Pascal's Triangle(帕斯卡三角形)](https://github.com/yaowenqing/leetcode/blob/master/codes/118-Pascal'sTriangle.md)
