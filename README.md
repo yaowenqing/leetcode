@@ -2,6 +2,10 @@
 
 [7-Reverse Integer(翻转整数)](https://github.com/yaowenqing/leetcode/blob/master/codes/7-ReverseInteger.md)
 
+[26-Remove Duplicates from Sorted Array(移除数组中重复元素)](https://github.com/yaowenqing/leetcode/blob/master/codes/26-RemoveDuplicatesFromSortedArray.md)
+
+[27-Remove Element(移除指定元素)](https://github.com/yaowenqing/leetcode/blob/master/codes/27-RemoveElement.md)
+
 [35-Search Insert Position(在有序数组中寻找插入数字的位置)](https://github.com/yaowenqing/leetcode/blob/master/codes/35-SearchInsertPosition.md)
 
 [38-Count and Say(念着说的序列)](https://github.com/yaowenqing/leetcode/blob/master/codes/38-CountAndSay.md)
