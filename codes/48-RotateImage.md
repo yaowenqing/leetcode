@@ -1,3 +1,5 @@
+## 题目描述
+
 You are given an n x n 2D matrix representing an image.
 
 Rotate the image by 90 degrees (clockwise).
@@ -60,7 +62,7 @@ rotate the input matrix in-place such that it becomes:
   
 ]
 
-##解法一
+## 解法一
 
 双层循环，外层循环是n/2（向下取整）轮，内层是每一轮进行的n-2i-1次迭代，每次迭代交换4个元素，如下图所示：进行了一轮，这一轮有2次迭代。
 
@@ -88,7 +90,8 @@ void rotate(vector<vector<int>>& matrix) {
         }
     }
 ```
-##解法二
+
+## 解法二
 
 首先以从对角线为轴翻转，然后再以x轴中线上下翻转即可得到结果，如下图所示(其中加粗数字表示翻转轴)：
 
@@ -116,7 +119,7 @@ void rotate(vector<vector<int>>& matrix) {
     }
 ```
 
-##解法三
+## 解法三
 
 首先对原数组取其转置矩阵，然后把每行的数字翻转可得到结果，如下所示(其中加粗数字表示翻转轴)：
 
