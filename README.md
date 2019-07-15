@@ -2,6 +2,8 @@
 
 [7-Reverse Integer(翻转整数)](https://github.com/yaowenqing/leetcode/blob/master/codes/7-ReverseInteger.md)
 
+[38-Count and Say(念着说的序列)](https://github.com/yaowenqing/leetcode/blob/master/codes/38-CountAndSay.md)
+
 [48-Rotate Image(二维矩阵翻转90度)](https://github.com/yaowenqing/leetcode/blob/master/codes/48-RotateImage.md) 
 
 [58-Length of Last Word(最后一个单词的长度)](https://github.com/yaowenqing/leetcode/blob/master/codes/58-LengthOfLastWord.md)
