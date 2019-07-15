@@ -8,6 +8,8 @@ Input: [7, 1, 5, 3, 6, 4]
 Output: 5
 max. difference = 6-1 = 5 (not 7-1 = 6, as selling price needs to be larger than buying price)
 
+
+
 Example:
 >Given n = 5, and version = 4 is the first bad version.
 call isBadVersion(3) -> false
@@ -31,7 +33,7 @@ In this case, no transaction is done, i.e. max profit = 0.
 解题思路：看代码即可看懂。
 
 
-
+```
 int maxProfit(vector<int>& prices) {
         int maxPro=0,minPrice=INT_MAX;
         for(int i=0;i<prices.size();i++){
@@ -40,3 +42,4 @@ int maxProfit(vector<int>& prices) {
         }
         return maxPro;
 }
+```
