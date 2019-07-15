@@ -23,7 +23,7 @@ If you were only permitted to complete at most one transaction (ie, buy one and 
 
 ### 解题思路
 
-用minPrice维护从前向后遍历的时候最便宜的股票，用maxPro来维护当前股票价钱与最便宜的股票的价钱之差
+用minPrice变量记录从前向后遍历的时候最便宜的股票，用maxPro记录当前股票价钱与最便宜的股票的价钱之差
 
 ### 代码
 ```
