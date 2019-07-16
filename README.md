@@ -32,5 +32,7 @@
 
 [136-Single Number(单独的数)](https://github.com/yaowenqing/leetcode/blob/master/codes/136-SingleNumber.md)
 
+[167-Two Sum II(两数相加II)](https://github.com/yaowenqing/leetcode/blob/master/codes/167-TwoSumII.md)
+
 [292-Nim Game(博弈小游戏)](https://github.com/yaowenqing/leetcode/blob/master/codes/292-NimGame.md)
 
