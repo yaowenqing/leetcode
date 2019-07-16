@@ -34,5 +34,7 @@
 
 [167-Two Sum II(两数相加II)](https://github.com/yaowenqing/leetcode/blob/master/codes/167-TwoSumII.md)
 
+[169-Majority Element(出现次数过半的元素)](https://github.com/yaowenqing/leetcode/blob/master/codes/169-MajorityElement.md)
+
 [292-Nim Game(博弈小游戏)](https://github.com/yaowenqing/leetcode/blob/master/codes/292-NimGame.md)
 
