@@ -18,6 +18,8 @@
 
 [66-Plus One(数组代表的值加1)](https://github.com/yaowenqing/leetcode/blob/master/codes/66-PlusOne.md)
 
+[70-Climbing Stairs(爬楼梯)](https://github.com/yaowenqing/leetcode/blob/master/codes/70-ClimbingStairs.md)
+
 [83-Remove Duplicates From Sorted List(移除有序链表中的重复元素)](https://github.com/yaowenqing/leetcode/blob/master/codes/83-RemoveDuplicatesFromSortedList.md)
 
 [88-Merge Sorted Array(合并两个有序数组)](https://github.com/yaowenqing/leetcode/blob/master/codes/88-MergeSortedArray.md)
