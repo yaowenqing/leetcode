@@ -32,7 +32,7 @@ void rotate(vector<int>& nums, int k) {
 if(i<k)
     nums[i]=nums2[n-k+i];
 else
-    nums[i]=nums2[i-k];1234
+    nums[i]=nums2[i-k];
 ```
 
 这段代码可以换成
