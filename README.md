@@ -36,5 +36,7 @@
 
 [169-Majority Element(出现次数过半的元素)](https://github.com/yaowenqing/leetcode/blob/master/codes/169-MajorityElement.md)
 
+[189-Rotate Array(数组置换)](https://github.com/yaowenqing/leetcode/blob/master/codes/189-RotateArray.md)
+
 [292-Nim Game(博弈小游戏)](https://github.com/yaowenqing/leetcode/blob/master/codes/292-NimGame.md)
 
