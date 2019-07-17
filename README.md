@@ -42,3 +42,6 @@
 
 [292-Nim Game(博弈小游戏)](https://github.com/yaowenqing/leetcode/blob/master/codes/292-NimGame.md)
 
+[746-Min Cost Climbing Stairs(爬楼梯的最小代价)](https://github.com/yaowenqing/leetcode/blob/master/codes/746-MinCostClimbingStairs.md) 
+
+
