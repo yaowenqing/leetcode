@@ -50,6 +50,8 @@
 
 [349-Intersection of Two Arrays(两个数组的交集)](https://github.com/yaowenqing/leetcode/blob/master/codes/349-IntersectionOfTwoArrays.md)
 
+[485-Max Consecutive Ones(最长的连续的1)](https://github.com/yaowenqing/leetcode/blob/master/codes/485-MaxConsecutiveOnes.md)
+
 [561-Array Partition I(数组划分)](https://github.com/yaowenqing/leetcode/blob/master/codes/561-ArrayPartitionI.md)
 
 [696-Count Binary Substrings(子串的个数)](https://github.com/yaowenqing/leetcode/blob/master/codes/696-CountBinarySubstrings.md)
