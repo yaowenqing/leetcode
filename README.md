@@ -42,6 +42,8 @@
 
 [189-Rotate Array(数组置换)](https://github.com/yaowenqing/leetcode/blob/master/codes/189-RotateArray.md)
 
+[206-Reverse Linked List(链表翻转)](https://github.com/yaowenqing/leetcode/blob/master/codes/206-ReverseLinkedList.md)
+
 [292-Nim Game(博弈小游戏)](https://github.com/yaowenqing/leetcode/blob/master/codes/292-NimGame.md)
 
 [349-Intersection of Two Arrays(两个数组的交集)](https://github.com/yaowenqing/leetcode/blob/master/codes/349-IntersectionOfTwoArrays.md)
