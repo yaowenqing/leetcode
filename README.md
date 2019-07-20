@@ -28,6 +28,8 @@
 
 [88-Merge Sorted Array(合并两个有序数组)](https://github.com/yaowenqing/leetcode/blob/master/codes/88-MergeSortedArray.md)
 
+[104-Maximum Depth of Binary Tree(二叉树最大深度)](https://github.com/yaowenqing/leetcode/blob/master/codes/104-MaximumDepthOfBinaryTree.md)
+
 [118-Pascal's Triangle(帕斯卡三角形)](https://github.com/yaowenqing/leetcode/blob/master/codes/118-Pascal'sTriangle.md)
 
 [119-Pascal's Triangle II(帕斯卡三角形II)](https://github.com/yaowenqing/leetcode/blob/master/codes/119-Pascal'sTriangleII.md)
