@@ -50,6 +50,8 @@
 
 [349-Intersection of Two Arrays(两个数组的交集)](https://github.com/yaowenqing/leetcode/blob/master/codes/349-IntersectionOfTwoArrays.md)
 
+[561-Array Partition I(数组划分)](https://github.com/yaowenqing/leetcode/blob/master/codes/561-ArrayPartitionI.md)
+
 [696-Count Binary Substrings(子串的个数)](https://github.com/yaowenqing/leetcode/blob/master/codes/696-CountBinarySubstrings.md)
 
 [746-Min Cost Climbing Stairs(爬楼梯的最小代价)](https://github.com/yaowenqing/leetcode/blob/master/codes/746-MinCostClimbingStairs.md) 
