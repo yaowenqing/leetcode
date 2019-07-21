@@ -44,13 +44,13 @@
 
 [167-Two Sum II(两数相加II)](https://github.com/yaowenqing/leetcode/blob/master/codes/167-TwoSumII.md)
 
-[169-Majority Element(出现次数过半的元素)](https://github.com/yaowenqing/leetcode/blob/master/codes/169-MajorityElement.md)
+[√169-Majority Element(出现次数过半的元素)](https://github.com/yaowenqing/leetcode/blob/master/codes/169-MajorityElement.md)
 
 [189-Rotate Array(数组置换)](https://github.com/yaowenqing/leetcode/blob/master/codes/189-RotateArray.md)
 
 [√203-Remove Linked List Elements(移除链表指定元素)](https://github.com/yaowenqing/leetcode/blob/master/codes/203-RemoveLinkedListElements.md)
 
-[206-Reverse Linked List(链表翻转)](https://github.com/yaowenqing/leetcode/blob/master/codes/206-ReverseLinkedList.md)
+[√206-Reverse Linked List(链表翻转)](https://github.com/yaowenqing/leetcode/blob/master/codes/206-ReverseLinkedList.md)
 
 [237-Delete Node in a Linked List(删除链表节点)](https://github.com/yaowenqing/leetcode/blob/master/codes/237-DeleteNodeInLinkedList.md)
 
