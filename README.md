@@ -8,13 +8,13 @@
 
 [27-Remove Element(移除指定元素)](https://github.com/yaowenqing/leetcode/blob/master/codes/27-RemoveElement.md)
 
-[35-Search Insert Position(在有序数组中寻找插入数字的位置)](https://github.com/yaowenqing/leetcode/blob/master/codes/35-SearchInsertPosition.md)
+[√35-Search Insert Position(在有序数组中寻找插入数字的位置)](https://github.com/yaowenqing/leetcode/blob/master/codes/35-SearchInsertPosition.md)
 
 [38-Count and Say(念着说的序列)](https://github.com/yaowenqing/leetcode/blob/master/codes/38-CountAndSay.md)
 
 [48-Rotate Image(二维矩阵翻转90度)](https://github.com/yaowenqing/leetcode/blob/master/codes/48-RotateImage.md) 
 
-[53-Maximum Subarray(和最大的子数组)](https://github.com/yaowenqing/leetcode/blob/master/codes/53-MaximumSubarray.md)
+[√53-Maximum Subarray(和最大的子数组)](https://github.com/yaowenqing/leetcode/blob/master/codes/53-MaximumSubarray.md)
 
 [58-Length of Last Word(最后一个单词的长度)](https://github.com/yaowenqing/leetcode/blob/master/codes/58-LengthOfLastWord.md)
 
@@ -47,6 +47,8 @@
 [169-Majority Element(出现次数过半的元素)](https://github.com/yaowenqing/leetcode/blob/master/codes/169-MajorityElement.md)
 
 [189-Rotate Array(数组置换)](https://github.com/yaowenqing/leetcode/blob/master/codes/189-RotateArray.md)
+
+[√203-Remove Linked List Elements(移除链表指定元素)](https://github.com/yaowenqing/leetcode/blob/master/codes/203-RemoveLinkedListElements.md)
 
 [206-Reverse Linked List(链表翻转)](https://github.com/yaowenqing/leetcode/blob/master/codes/206-ReverseLinkedList.md)
 
