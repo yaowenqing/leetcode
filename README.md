@@ -4,6 +4,8 @@
 
 [9-Palindrome Number(判断数字是否对称)](https://github.com/yaowenqing/leetcode/blob/master/codes/9-PalindromeNumber.md)
 
+[22-Generate Parentheses(列举所有括号对)](https://github.com/yaowenqing/leetcode/blob/master/codes/22-GenerateParentheses.md)
+
 [26-Remove Duplicates from Sorted Array(移除数组中重复元素)](https://github.com/yaowenqing/leetcode/blob/master/codes/26-RemoveDuplicatesFromSortedArray.md)
 
 [27-Remove Element(移除指定元素)](https://github.com/yaowenqing/leetcode/blob/master/codes/27-RemoveElement.md)
