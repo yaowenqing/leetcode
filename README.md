@@ -62,6 +62,10 @@
 
 [268-Missing Number(寻找少加的数字)](https://github.com/yaowenqing/leetcode/blob/master/codes/268-MissingNumber.md)
 
+[274-H-Index(计算h指数)](https://github.com/yaowenqing/leetcode/blob/master/codes/274-H-Index.md)
+
+[275-H-Index2(计算h指数2)](https://github.com/yaowenqing/leetcode/blob/master/codes/275-H-Index2.md)
+
 [278-First Bad Version(寻找第一个次品)](https://github.com/yaowenqing/leetcode/blob/master/codes/278-FirstBadVersion.md)
 
 [292-Nim Game(博弈小游戏)](https://github.com/yaowenqing/leetcode/blob/master/codes/292-NimGame.md)
