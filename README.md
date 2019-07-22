@@ -62,6 +62,8 @@
 
 [268-Missing Number(寻找少加的数字)](https://github.com/yaowenqing/leetcode/blob/master/codes/268-MissingNumber.md)
 
+[278-First Bad Version(寻找第一个次品)](https://github.com/yaowenqing/leetcode/blob/master/codes/278-FirstBadVersion.md)
+
 [292-Nim Game(博弈小游戏)](https://github.com/yaowenqing/leetcode/blob/master/codes/292-NimGame.md)
 
 [349-Intersection of Two Arrays(两个数组的交集)](https://github.com/yaowenqing/leetcode/blob/master/codes/349-IntersectionOfTwoArrays.md)
