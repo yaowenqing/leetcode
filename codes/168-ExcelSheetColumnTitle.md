@@ -12,7 +12,6 @@ For example:
 27 -> AA
 28 -> AB 
 ...
-12345678
 ```
 
 **Example 1**
