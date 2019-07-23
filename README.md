@@ -44,6 +44,8 @@
 
 [122-Best Time to Buy and Sell Stock II(买进卖出股票的最佳时机II)](https://github.com/yaowenqing/leetcode/blob/master/codes/122-BestTimeToBuyAndSellStockII.md)
 
+[125-Valid Palindrome(判断字符串是否对称)](https://github.com/yaowenqing/leetcode/blob/master/codes/125-ValidPalindrome.md)
+
 [136-Single Number(单独的数)](https://github.com/yaowenqing/leetcode/blob/master/codes/136-SingleNumber.md)
 
 [167-Two Sum II(两数相加II)](https://github.com/yaowenqing/leetcode/blob/master/codes/167-TwoSumII.md)
