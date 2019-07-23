@@ -46,7 +46,11 @@
 
 [167-Two Sum II(两数相加II)](https://github.com/yaowenqing/leetcode/blob/master/codes/167-TwoSumII.md)
 
+[168-Excel Sheet Column Title(数字对应excel字母)](https://github.com/yaowenqing/leetcode/blob/master/codes/168-ExcelSheetColumnTitle.md)
+
 [√169-Majority Element(出现次数过半的元素)](https://github.com/yaowenqing/leetcode/blob/master/codes/169-MajorityElement.md)
+
+[172-Factorial Trailing Zeroes(阶乘结尾0的个数)](https://github.com/yaowenqing/leetcode/blob/master/codes/172-FactorialTrailingZeroes.md) 
 
 [189-Rotate Array(数组置换)](https://github.com/yaowenqing/leetcode/blob/master/codes/189-RotateArray.md)
 
