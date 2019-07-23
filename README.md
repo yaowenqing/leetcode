@@ -60,6 +60,8 @@
 
 [217-Contains Duplicate(检验是否有重复数字)](https://github.com/yaowenqing/leetcode/blob/master/codes/217-ContainsDuplicate.md)
 
+[219-Contains Duplicate II(检验是否有重复数字2)](https://github.com/yaowenqing/leetcode/blob/master/codes/219-ContainsDuplicateII.md)
+
 [226-Invert Binary Tree-E(二叉树翻转)](https://github.com/yaowenqing/leetcode/blob/master/codes/226-InvertBinaryTree.md)
 
 [231-Power of Two(判断一个数是否是2的次幂)](https://github.com/yaowenqing/leetcode/blob/master/codes/231-PowerOfTwo.md)
