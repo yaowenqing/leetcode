@@ -25,8 +25,11 @@ Your function should return true if any value appears at least twice in the arra
 ### 思路
 
 解决方案： 
+
 一：双层循环，时间复杂度太高，放弃 
+
 二：先排序后再单层遍历，时间复杂度nlogn，还是偏高 
+
 三：使用unorder_set，代码如下
 
 ```
