@@ -1,3 +1,5 @@
+### 问题描述
+
 Given an integer n, return the number of trailing zeroes in n!.
 
 Example 1:
@@ -22,6 +24,8 @@ Example 2:
 
 - Note: Your solution should be in logarithmic time complexity.
 
+### 代码
+
 我的思路，先判断它是5的多少次方级别的数字，比如129大于125小于625，属于5的3次方级别的数字。然后再用一个 for循环分别除以5，25，125，最后结果相加。代码如下:
 
 
@@ -44,7 +48,7 @@ int trailingZeroes(int n) {
     }
 ```
 
-把自己的代码优化一下，去掉是5的多少次方级别数字的这一判断过程：
+然后我把自己的代码优化一下，去掉是5的多少次方级别数字的这一判断过程：
 
 
 ```
@@ -58,7 +62,7 @@ int trailingZeroes(int n) {
     }
 ```
 
-别人的优雅递归解法：
+网上看到别人的优雅递归解法：
 
 ```
 
