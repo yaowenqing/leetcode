@@ -58,6 +58,8 @@
 
 [172-Factorial Trailing Zeroes(阶乘结尾0的个数)](https://github.com/yaowenqing/leetcode/blob/master/codes/172-FactorialTrailingZeroes.md) 
 
+[182-Duplicate Emails(SQL语句寻找冗余)](https://github.com/yaowenqing/leetcode/blob/master/codes/182-DuplicateEmails.md)
+
 [189-Rotate Array(数组置换)](https://github.com/yaowenqing/leetcode/blob/master/codes/189-RotateArray.md)
 
 [√203-Remove Linked List Elements(移除链表指定元素)](https://github.com/yaowenqing/leetcode/blob/master/codes/203-RemoveLinkedListElements.md)
@@ -69,6 +71,8 @@
 [219-Contains Duplicate II(检验是否有重复数字2)](https://github.com/yaowenqing/leetcode/blob/master/codes/219-ContainsDuplicateII.md)
 
 [220-Contains Duplicate III(检验是否有重复数字3)](https://github.com/yaowenqing/leetcode/blob/master/codes/220-ContainsDuplicateIII.md)
+
+
 
 [226-Invert Binary Tree-E(二叉树翻转)](https://github.com/yaowenqing/leetcode/blob/master/codes/226-InvertBinaryTree.md)
 
