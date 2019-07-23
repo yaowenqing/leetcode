@@ -48,6 +48,8 @@
 
 [136-Single Number(单独的数)](https://github.com/yaowenqing/leetcode/blob/master/codes/136-SingleNumber.md)
 
+[141-Linked List Cycle(判断链表是否有环)](https://github.com/yaowenqing/leetcode/blob/master/codes/141-LinkedListCycle.md)
+
 [167-Two Sum II(两数相加II)](https://github.com/yaowenqing/leetcode/blob/master/codes/167-TwoSumII.md)
 
 [168-Excel Sheet Column Title(数字对应excel字母)](https://github.com/yaowenqing/leetcode/blob/master/codes/168-ExcelSheetColumnTitle.md)
