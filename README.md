@@ -6,6 +6,8 @@
 
 [14-Longest Common Prefix(最长前缀)](https://github.com/yaowenqing/leetcode/blob/master/codes/14-LongestCommonPrefix.md)
 
+[20-Valid Parentheses(括号匹配)](https://github.com/yaowenqing/leetcode/blob/master/codes/20-Valid%20Parentheses.md)
+
 [22-Generate Parentheses(列举所有括号对)](https://github.com/yaowenqing/leetcode/blob/master/codes/22-GenerateParentheses.md)
 
 [26-Remove Duplicates from Sorted Array(移除数组中重复元素)](https://github.com/yaowenqing/leetcode/blob/master/codes/26-RemoveDuplicatesFromSortedArray.md)
