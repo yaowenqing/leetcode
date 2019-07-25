@@ -4,6 +4,8 @@
 
 [9-Palindrome Number(判断数字是否对称)](https://github.com/yaowenqing/leetcode/blob/master/codes/9-PalindromeNumber.md)
 
+[14-Longest Common Prefix(最长前缀)](https://github.com/yaowenqing/leetcode/blob/master/codes/14-LongestCommonPrefix.md)
+
 [22-Generate Parentheses(列举所有括号对)](https://github.com/yaowenqing/leetcode/blob/master/codes/22-GenerateParentheses.md)
 
 [26-Remove Duplicates from Sorted Array(移除数组中重复元素)](https://github.com/yaowenqing/leetcode/blob/master/codes/26-RemoveDuplicatesFromSortedArray.md)
