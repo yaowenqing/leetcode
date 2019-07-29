@@ -6,6 +6,8 @@ A happy number is a number defined by the following process: Starting with any p
 
 Example: 19 is a happy number
 
+1²+
+
 $1^{2}$ + $9^{2}$ = $82$
 
 8^{2}+ $2^{2}$ = $68$
