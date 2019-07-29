@@ -14,6 +14,8 @@
 
 [27-Remove Element(移除指定元素)](https://github.com/yaowenqing/leetcode/blob/master/codes/27-RemoveElement.md)
 
+[34-Search for a Range(搜寻范围)](https://github.com/yaowenqing/leetcode/blob/master/codes/34-SearchForRange.md)
+
 [√35-Search Insert Position(在有序数组中寻找插入数字的位置)](https://github.com/yaowenqing/leetcode/blob/master/codes/35-SearchInsertPosition.md)
 
 [38-Count and Say(念着说的序列)](https://github.com/yaowenqing/leetcode/blob/master/codes/38-CountAndSay.md)
