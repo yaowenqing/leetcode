@@ -100,6 +100,8 @@
 
 [349-Intersection of Two Arrays(两个数组的交集)](https://github.com/yaowenqing/leetcode/blob/master/codes/349-IntersectionOfTwoArrays.md)
 
+[371-Sum of Two Integers(两数之和)](https://github.com/yaowenqing/leetcode/blob/master/codes/371-SumOfTwoIntegers.md)
+
 [404-Sum of Left Leaves(二叉树左叶子节点之和)](https://github.com/yaowenqing/leetcode/blob/master/codes/404-SumOfLeftLeaves.md
 )
 
