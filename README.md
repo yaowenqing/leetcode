@@ -117,4 +117,5 @@
 
 [746-Min Cost Climbing Stairs(爬楼梯的最小代价)](https://github.com/yaowenqing/leetcode/blob/master/codes/746-MinCostClimbingStairs.md) 
 
+[852-Peak Index in a Mountain Array(山峰)](https://github.com/yaowenqing/leetcode/blob/master/codes/852-PeakIndexInMountainArray.md)
 
