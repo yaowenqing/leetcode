@@ -83,9 +83,9 @@ bool isHappy(int n) {
 
 
 该方法基于的思想是Floyd判圈算法（龟兔赛跑算法） ，参考下面的博客：
-![Floyd判圈算法（龟兔赛跑算法）](http://blog.csdn.net/xiaoquantouer/article/details/51620657)
+[Floyd判圈算法（龟兔赛跑算法）](http://blog.csdn.net/xiaoquantouer/article/details/51620657)
 
-#Floyd判圈算法（龟兔赛跑算法）
+### Floyd判圈算法（龟兔赛跑算法）
 
 Floyd判圈算法（Floyd Cycle Detection Algorithm），又称龟兔赛跑算法（Tortoise and Hare Algorithm），是一个可以在有限状态机、迭代函数或者链表上判断是否存在环，以及判断环的起点与长度的算法。
 
