@@ -87,6 +87,8 @@
 
 [204-Count Primes(数质数)](https://github.com/yaowenqing/leetcode/blob/master/codes/204-CountPrimes.md)
 
+[205-Isomorphic Strings(同构字符串)](https://github.com/yaowenqing/leetcode/blob/master/codes/205-IsomorphicStrings.md)
+
 [√206-Reverse Linked List(链表翻转)](https://github.com/yaowenqing/leetcode/blob/master/codes/206-ReverseLinkedList.md)
 
 [217-Contains Duplicate(检验是否有重复数字)](https://github.com/yaowenqing/leetcode/blob/master/codes/217-ContainsDuplicate.md)
