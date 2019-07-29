@@ -138,6 +138,8 @@
 
 [617-Merge Two Binary Trees(合并两个二叉树)](https://github.com/yaowenqing/leetcode/blob/master/codes/617-MergeTwoBinaryTrees.md)
 
+[690-Employee Importance(下属员工总权重)](https://github.com/yaowenqing/leetcode/blob/master/codes/690-EmployeeImportance.md)
+
 [696-Count Binary Substrings(子串的个数)](https://github.com/yaowenqing/leetcode/blob/master/codes/696-CountBinarySubstrings.md)
 
 [746-Min Cost Climbing Stairs(爬楼梯的最小代价)](https://github.com/yaowenqing/leetcode/blob/master/codes/746-MinCostClimbingStairs.md) 
