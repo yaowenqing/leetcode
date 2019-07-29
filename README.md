@@ -68,6 +68,8 @@
 
 [189-Rotate Array(数组置换)](https://github.com/yaowenqing/leetcode/blob/master/codes/189-RotateArray.md)
 
+[√202-Happy Number(快乐数)](https://github.com/yaowenqing/leetcode/blob/master/codes/202-HappyNumber.md)
+
 [√203-Remove Linked List Elements(移除链表指定元素)](https://github.com/yaowenqing/leetcode/blob/master/codes/203-RemoveLinkedListElements.md)
 
 [204-Count Primes(数质数)](https://github.com/yaowenqing/leetcode/blob/master/codes/204-CountPrimes.md)
