@@ -122,9 +122,11 @@
 [404-Sum of Left Leaves(二叉树左叶子节点之和)](https://github.com/yaowenqing/leetcode/blob/master/codes/404-SumOfLeftLeaves.md
 )
 
-[442-Find All Duplicates in an Array(寻找数组里的冗余元素)](https://github.com/yaowenqing/leetcode/blob/master/codes/442-FindAllDuplicatesInArray.md)
+[√442-Find All Duplicates in an Array(寻找数组里的冗余元素)](https://github.com/yaowenqing/leetcode/blob/master/codes/442-FindAllDuplicatesInArray.md)
 
 [485-Max Consecutive Ones(最长的连续的1)](https://github.com/yaowenqing/leetcode/blob/master/codes/485-MaxConsecutiveOnes.md)
+
+[500-Keyboard Row(键盘同一行)](https://github.com/yaowenqing/leetcode/blob/master/codes/500-KeyboardRow.md)
 
 [561-Array Partition I(数组划分)](https://github.com/yaowenqing/leetcode/blob/master/codes/561-ArrayPartitionI.md)
 
