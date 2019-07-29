@@ -55,12 +55,12 @@ Note:
 
 ### 关于vector的一些知识。 
 
-初始化二维vector，为r*c的vector，所有值为0的方法：  
+初始化二维vector，为r×c的vector，所有值为0的方法：  
 
 直接用初始化的方法：
 
 ```
-vector<vector<int>> newOne(r,vector<int>(c,0));1
+vector<vector<int>> newOne(r,vector<int>(c,0));
 ```
 
 用resize()来控制大小：
@@ -69,7 +69,7 @@ vector<vector<int>> newOne(r,vector<int>(c,0));1
 vector<vector<int>>res;
 res.resize(r);//r行
 for(int k=0;k<r;k++)
-    res[k].resize(c);//每行为c列1234
+    res[k].resize(c);//每行为c列
 ```
 
 
