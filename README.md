@@ -14,6 +14,8 @@
 
 [27-Remove Element(移除指定元素)](https://github.com/yaowenqing/leetcode/blob/master/codes/27-RemoveElement.md)
 
+[28-Implement strStr()(实现字符串函数)]()
+
 [34-Search for a Range(搜寻范围)](https://github.com/yaowenqing/leetcode/blob/master/codes/34-SearchForRange.md)
 
 [√35-Search Insert Position(在有序数组中寻找插入数字的位置)](https://github.com/yaowenqing/leetcode/blob/master/codes/35-SearchInsertPosition.md)
@@ -86,7 +88,7 @@
 
 [220-Contains Duplicate III(检验是否有重复数字3)](https://github.com/yaowenqing/leetcode/blob/master/codes/220-ContainsDuplicateIII.md)
 
-
+[225-Implement Stack using Queues(用队列实现堆栈)](https://github.com/yaowenqing/leetcode/blob/master/codes/225-ImplementStackUsingQueues.md)
 
 [226-Invert Binary Tree-E(二叉树翻转)](https://github.com/yaowenqing/leetcode/blob/master/codes/226-InvertBinaryTree.md)
 
