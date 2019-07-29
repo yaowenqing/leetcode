@@ -24,6 +24,8 @@
 
 [√53-Maximum Subarray(和最大的子数组)](https://github.com/yaowenqing/leetcode/blob/master/codes/53-MaximumSubarray.md)
 
+[55-Jump Game(跳跃游戏)](https://github.com/yaowenqing/leetcode/blob/master/codes/55-JumpGame.md)
+
 [58-Length of Last Word(最后一个单词的长度)](https://github.com/yaowenqing/leetcode/blob/master/codes/58-LengthOfLastWord.md)
 
 [66-Plus One(数组代表的值加1)](https://github.com/yaowenqing/leetcode/blob/master/codes/66-PlusOne.md)
