@@ -133,6 +133,8 @@
 
 [371-Sum of Two Integers(两数之和)](https://github.com/yaowenqing/leetcode/blob/master/codes/371-SumOfTwoIntegers.md)
 
+[390-Elimination Game(淘汰游戏)](https://github.com/yaowenqing/leetcode/blob/master/codes/390-EliminationGame.md)
+
 [396-Rotate Function(旋转函数)](https://github.com/yaowenqing/leetcode/blob/master/codes/396-RotateFunction.md)
 
 [404-Sum of Left Leaves(二叉树左叶子节点之和)](https://github.com/yaowenqing/leetcode/blob/master/codes/404-SumOfLeftLeaves.md
