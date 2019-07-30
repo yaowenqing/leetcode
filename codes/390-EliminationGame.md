@@ -41,7 +41,7 @@ Output:
 ```
 int lastRemaining(int n) {
         return elimi(n,true);
-    }
+}
     int elimi(int n,bool left){
         if(n==1)
             return 1;
@@ -53,5 +53,5 @@ int lastRemaining(int n) {
             else
                 return 2*elimi(n/2,true);
         }
-}  
+    }  
 ```
