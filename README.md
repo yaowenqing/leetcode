@@ -1,5 +1,7 @@
 # leetcode
 
+[1-Two Sum(两数之和)](https://github.com/yaowenqing/leetcode/blob/master/codes/1-TwoSum.md)
+
 [7-Reverse Integer(翻转整数)](https://github.com/yaowenqing/leetcode/blob/master/codes/7-ReverseInteger.md)
 
 [9-Palindrome Number(判断数字是否对称)](https://github.com/yaowenqing/leetcode/blob/master/codes/9-PalindromeNumber.md)
