@@ -30,7 +30,7 @@ vector<int> twoSum(vector<int>& nums, int target) {
 
 虽然通过了，但是时间为250ms，太慢了。 
 
-下面是时间复杂度为n的解决方案。
+下面是时间复杂度为n的方法。
 
 ```
 vector<int> twoSum(vector<int>& nums, int target) {
