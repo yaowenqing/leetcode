@@ -125,7 +125,11 @@
 
 [344-Reverse String(字符串翻转)](https://github.com/yaowenqing/leetcode/blob/master/codes/344-ReverseString.md)
 
+[345-Reverse Vowels of a String(仅翻转字符串的元音字母)](https://github.com/yaowenqing/leetcode/blob/master/codes/345-ReverseVowelsOfString.md)
+
 [349-Intersection of Two Arrays(两个数组的交集)](https://github.com/yaowenqing/leetcode/blob/master/codes/349-IntersectionOfTwoArrays.md)
+
+[350-Intersection of Two Arrays II(求两个数组的交集2)](https://github.com/yaowenqing/leetcode/blob/master/codes/350-IntersectionOfTwoArraysII.md)
 
 [371-Sum of Two Integers(两数之和)](https://github.com/yaowenqing/leetcode/blob/master/codes/371-SumOfTwoIntegers.md)
 
