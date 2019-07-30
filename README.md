@@ -133,6 +133,8 @@
 
 [371-Sum of Two Integers(两数之和)](https://github.com/yaowenqing/leetcode/blob/master/codes/371-SumOfTwoIntegers.md)
 
+[396-Rotate Function(旋转函数)]()
+
 [404-Sum of Left Leaves(二叉树左叶子节点之和)](https://github.com/yaowenqing/leetcode/blob/master/codes/404-SumOfLeftLeaves.md
 )
 
