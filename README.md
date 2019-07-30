@@ -146,7 +146,7 @@
 
 [696-Count Binary Substrings(子串的个数)](https://github.com/yaowenqing/leetcode/blob/master/codes/696-CountBinarySubstrings.md)
 
-[697-Degree of an Array(和数组的度相同的连续最短子数组)]()
+[697-Degree of an Array(和数组的度相同的连续最短子数组)](https://github.com/yaowenqing/leetcode/blob/master/codes/697-DegreeOfArray.md)
 
 [746-Min Cost Climbing Stairs(爬楼梯的最小代价)](https://github.com/yaowenqing/leetcode/blob/master/codes/746-MinCostClimbingStairs.md) 
 
