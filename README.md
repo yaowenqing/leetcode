@@ -19,7 +19,7 @@
 
 [27-Remove Element(移除指定元素)](https://github.com/yaowenqing/leetcode/blob/master/codes/27-RemoveElement.md)
 
-[28-Implement strStr()(实现字符串函数)]()
+[28-Implement strStr()(实现字符串函数)](https://github.com/yaowenqing/leetcode/blob/master/codes/28-Implement%20strStr().md)
 
 [34-Search for a Range(搜寻范围)](https://github.com/yaowenqing/leetcode/blob/master/codes/34-SearchForRange.md)
 
