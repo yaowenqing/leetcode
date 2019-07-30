@@ -142,6 +142,8 @@
 
 [690-Employee Importance(下属员工总权重)](https://github.com/yaowenqing/leetcode/blob/master/codes/690-EmployeeImportance.md)
 
+[695-Max Area of Island(岛屿的最大面积)](https://github.com/yaowenqing/leetcode/blob/master/codes/695-MaxAreaOfIsland.md)
+
 [696-Count Binary Substrings(子串的个数)](https://github.com/yaowenqing/leetcode/blob/master/codes/696-CountBinarySubstrings.md)
 
 [746-Min Cost Climbing Stairs(爬楼梯的最小代价)](https://github.com/yaowenqing/leetcode/blob/master/codes/746-MinCostClimbingStairs.md) 
