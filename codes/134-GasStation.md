@@ -25,7 +25,7 @@ Output: 3
 Explanation: 
 
 ```
-Start at station 3 (index 3) and fill up with 4 unit of gas. Your tank = 0 + 4 = 4 
+  Start at station 3 (index 3) and fill up with 4 unit of gas. Your tank = 0 + 4 = 4 
   Travel to station 4. Your tank = 4 - 1 + 5 = 8 
   Travel to station 0. Your tank = 8 - 2 + 1 = 7 
   Travel to station 1. Your tank = 7 - 3 + 2 = 6 
@@ -48,7 +48,7 @@ Output: -1
 Explanation: 
 
 ```
-You can’t start at station 0 or 1, as there is not enough gas to travel to the next station. 
+  You can’t start at station 0 or 1, as there is not enough gas to travel to the next station. 
   Let’s start at station 2 and fill up with 4 unit of gas. Your tank = 0 + 4 = 4 
   Travel to station 0. Your tank = 4 - 3 + 2 = 3 
   Travel to station 1. Your tank = 3 - 3 + 3 = 3 
@@ -80,6 +80,7 @@ int canCompleteCircuit(vector<int>& gas, vector<int>& cost) {
         }
         return -1;
 }
+```
 
 虽然AC了，但是太慢了，用了151ms
 
