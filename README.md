@@ -21,6 +21,8 @@
 
 [28-Implement strStr()(实现字符串函数)](https://github.com/yaowenqing/leetcode/blob/master/codes/28-Implement%20strStr().md)
 
+[31-Next Permutation(下一种全排列)](https://github.com/yaowenqing/leetcode/blob/master/codes/31-NextPermutation.md)
+
 [34-Search for a Range(搜寻范围)](https://github.com/yaowenqing/leetcode/blob/master/codes/34-SearchForRange.md)
 
 [√35-Search Insert Position(在有序数组中寻找插入数字的位置)](https://github.com/yaowenqing/leetcode/blob/master/codes/35-SearchInsertPosition.md)
