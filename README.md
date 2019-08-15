@@ -31,6 +31,8 @@
 
 [38-Count and Say(念着说的序列)](https://github.com/yaowenqing/leetcode/blob/master/codes/38-CountAndSay.md)
 
+[42-Trapping Rain Water(接雨水)](https://github.com/yaowenqing/leetcode/blob/master/codes/42-TrappingRainWater.md)
+
 [48-Rotate Image(二维矩阵翻转90度)](https://github.com/yaowenqing/leetcode/blob/master/codes/48-RotateImage.md) 
 
 [49-Group Anagrams(同字母异序词分组)](https://github.com/yaowenqing/leetcode/blob/master/codes/49-GroupAnagrams.md)
