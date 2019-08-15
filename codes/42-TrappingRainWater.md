@@ -1,3 +1,5 @@
+![](https://github.com/yaowenqing/leetcode/blob/master/images/7.png)
+
 ### 思路
 
 通过观察发现，从最高的点（塔顶）往两边遍历，水位只会减小不会升高。
