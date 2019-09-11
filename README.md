@@ -139,7 +139,7 @@
 
 [292-Nim Game(博弈小游戏)](https://github.com/yaowenqing/leetcode/blob/master/codes/292-NimGame.md)
 
-[322-Coin Change(换零钱)]
+[322-Coin Change(硬币组合)](https://github.com/yaowenqing/leetcode/blob/master/codes/322-CoinChange.md)
 
 [344-Reverse String(字符串翻转)](https://github.com/yaowenqing/leetcode/blob/master/codes/344-ReverseString.md)
 
