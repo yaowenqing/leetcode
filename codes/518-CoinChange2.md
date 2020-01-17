@@ -27,4 +27,23 @@ Input: amount = 10, coins = [10]
 
 Output: 1
  
+思路
+
 组成价值为j的组合种类 = 用前i-1种面值的硬币组成价值为j的组合种类 + 组成价值为 (j-第i种硬币面值) 的组合种类
+
+代码如下
+
+```
+int change(int amount, vector<int>& coins) {
+        int n=coins.size();
+        int dp[amount+1]={0};
+        dp[0]=1;
+        for(int i=0;i<n;i++){
+            for(int j=1;j<=amount;j++){
+                if(j-coins[i]>=0)
+                    dp[j]+=dp[j-coins[i]];
+            }
+        }
+        return dp[amount];
+    }
+```
