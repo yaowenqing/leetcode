@@ -13,7 +13,7 @@ Explanation: there are four ways to make up the amount:
 5=2+1+1+1
 5=1+1+1+1+1
 ```
-**Example **
+**Example 2**
 
 Input: amount = 3, coins = [2]
 
