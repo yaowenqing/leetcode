@@ -43,6 +43,8 @@
 
 [58-Length of Last Word(最后一个单词的长度)](https://github.com/yaowenqing/leetcode/blob/master/codes/58-LengthOfLastWord.md)
 
+[62-Unique Paths(方格棋盘的路径数目)](https://github.com/yaowenqing/leetcode/blob/master/codes/62-UniquePaths.md)
+
 [66-Plus One(数组代表的值加1)](https://github.com/yaowenqing/leetcode/blob/master/codes/66-PlusOne.md)
 
 [67-Add Binary(二进制加法)](https://github.com/yaowenqing/leetcode/tree/master/codes)
