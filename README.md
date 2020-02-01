@@ -45,6 +45,8 @@
 
 [62-Unique Paths(方格棋盘的路径数目)](https://github.com/yaowenqing/leetcode/blob/master/codes/62-UniquePaths.md)
 
+[63-Unique Paths 2(方格棋盘的路径数目2)](https://github.com/yaowenqing/leetcode/blob/master/codes/63-UniquePaths2.md)
+
 [66-Plus One(数组代表的值加1)](https://github.com/yaowenqing/leetcode/blob/master/codes/66-PlusOne.md)
 
 [67-Add Binary(二进制加法)](https://github.com/yaowenqing/leetcode/tree/master/codes)
