@@ -30,6 +30,7 @@ There are two ways to reach the bottom-right corner:
 
 简单明了的动态规划，先初始化第一行和第一列，和62题的区别在于如果遇到障碍直接把dp数组在障碍处设为0.
 
+```
 int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
         int m=obstacleGrid.size();
         int n=obstacleGrid[0].size();
@@ -62,3 +63,4 @@ int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
         }
         return dp[m-1][n-1];
     }
+```
