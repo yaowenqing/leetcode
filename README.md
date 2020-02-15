@@ -117,7 +117,7 @@
 
 [√206-Reverse Linked List(链表翻转)](https://github.com/yaowenqing/leetcode/blob/master/codes/206-ReverseLinkedList.md)
 
-[207-Course Schedule(先修课程-判断有向图是否有环)]
+[207-Course Schedule(先修课程-判断有向图是否有环)](https://github.com/yaowenqing/leetcode/blob/master/codes/207-CourseSchedule.md)
 
 [213-House Robber II(抢劫犯II)](https://github.com/yaowenqing/leetcode/blob/master/codes/213-HouseRobbereII.md)
 
