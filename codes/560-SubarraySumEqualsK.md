@@ -6,6 +6,13 @@ Input:nums = [1,1,1], k = 2
 
 Output: 2
 
+**Example 1**
+
+Input:nums = [3,4,7,2,-3,1,4,2], k = 7
+
+Output: 4(3+4;7;7+2-3+1;1+4+2)
+
+
 暴力解法：（居然可以通过）
 ```
 int subarraySum(vector<int>& nums, int k) {
