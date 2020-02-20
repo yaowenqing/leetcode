@@ -32,7 +32,7 @@ int subarraySum(vector<int>& nums, int k) {
 }
 ```
 hashmap解法：
-```
+```C++
  int subarraySum(vector<int>& nums, int k) {
         int n=nums.size();
         int res=0,sum=0;
