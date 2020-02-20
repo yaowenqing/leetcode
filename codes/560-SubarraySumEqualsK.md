@@ -12,15 +12,9 @@ Input:nums = [3,4,7,2,-3,1,4,2], k = 7
 
 Output: 4(3+4;7;7+2-3+1;1+4+2)
 
-|i          |    0    |
-|:---------:|:---------:|
-|nums[i]    |  0  |
-|sum        |  0    | 
-|sum-k      |  0      |
-
 
 暴力解法：（居然可以通过）
-```
+```C++
 int subarraySum(vector<int>& nums, int k) {
         int n=nums.size();
         int res=0;
@@ -38,6 +32,11 @@ int subarraySum(vector<int>& nums, int k) {
 }
 ```
 hashmap解法：
+|i          |    0    |1|2|3|4|5|6|7|
+|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
+|nums[i]    |  3  |4|7|2|-3|1|4|2|
+|sum        |  3  |7|14|16|13|14|18|20| 
+|sum-k      |  -4|0|7|9|6|7|11|13|
 ```C++
  int subarraySum(vector<int>& nums, int k) {
         int n=nums.size();
