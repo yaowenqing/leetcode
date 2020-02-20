@@ -12,6 +12,12 @@ Input:nums = [3,4,7,2,-3,1,4,2], k = 7
 
 Output: 4(3+4;7;7+2-3+1;1+4+2)
 
+|Tables         | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 
 暴力解法：（居然可以通过）
 ```
