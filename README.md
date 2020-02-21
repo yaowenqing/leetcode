@@ -105,6 +105,8 @@
 
 [189-Rotate Array(数组置换)](https://github.com/yaowenqing/leetcode/blob/master/codes/189-RotateArray.md)
 
+[196-Delete Duplicate Emails(删除多余邮件)](https://github.com/yaowenqing/leetcode/blob/master/codes/196-DeleteDuplicateEmails.md)
+
 [198-House Robber(抢劫犯)](https://github.com/yaowenqing/leetcode/blob/master/codes/198-HouseRobber.md)
 
 [√202-Happy Number(快乐数)](https://github.com/yaowenqing/leetcode/blob/master/codes/202-HappyNumber.md)
