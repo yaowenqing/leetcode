@@ -35,6 +35,8 @@
 
 [46-Permutations(全排列)](https://github.com/yaowenqing/leetcode/blob/master/codes/46-permutations.md)
 
+[47-Permutations2(带有重复元素的全排列)](https://github.com/yaowenqing/leetcode/blob/master/codes/47-permutations2.md)
+
 [48-Rotate Image(二维矩阵翻转90度)](https://github.com/yaowenqing/leetcode/blob/master/codes/48-RotateImage.md) 
 
 [49-Group Anagrams(同字母异序词分组)](https://github.com/yaowenqing/leetcode/blob/master/codes/49-GroupAnagrams.md)
