@@ -10,7 +10,7 @@ Output:
 ]
 
 ```java
-List<List<Integer>> res = new ArrayList<List<Integer>>();
+    List<List<Integer>> res = new ArrayList<List<Integer>>();
     boolean[] used=null;
     public List<List<Integer>> permuteUnique(int[] nums) {
         used=new boolean[nums.length];
