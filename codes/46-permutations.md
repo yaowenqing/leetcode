@@ -47,5 +47,11 @@ Output:
             }
         }
     }
+    
+    public void swap(int[] nums,int p,int q){
+        int temp=nums[p];
+        nums[p]=nums[q];
+        nums[q]=temp;
+    }
 
 ```
