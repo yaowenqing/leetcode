@@ -25,6 +25,19 @@ A solution set is:
   [5]
 ]
 
+**思路**
+
+这道题和39题之间的关系就好比47题和46题的关系，这四道题可以组合起来看。
+
+类似47题，在处理有重复元素的情况时要先对数组排序。
+
+这道题的处理相对简单，只需要在每次循环中加入元素是否重复的判断即可，若重复就跳过。
+
+另外还要注意和39题的一个不同之处在于在函数中递归调用时的最后一个参数为i+1,这是因为此时我们不需要再考虑i这个位置的元素了（因为元素不能被重复使用）
+
+>comb(candidates,target-candidates[i],temp,i+1);
+
+
 
 ```java
 class Solution {
@@ -45,7 +58,7 @@ class Solution {
             res.add(new ArrayList<>(temp));
         else{
             for(int i=start;i<candidates.length;i++){
-                if(i>start&&candidates[i]==candidates[i-1])
+                if(i>start&&candidates[i]==candidates[i-1])//直接跳过重复元素
                     continue;
                 temp.add(candidates[i]);
                 comb(candidates,target-candidates[i],temp,i+1);
