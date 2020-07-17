@@ -2,10 +2,10 @@ Given an array nums of n integers and an integer target, find three integers in 
 
  
 
->Example 1:
-Input: nums = [-1,2,1,-4], target = 1
-Output: 2
-Explanation: The sum that is closest to the target is 2. (-1 + 2 + 1 = 2).
+- Example 1:
+- Input: nums = [-1,2,1,-4], target = 1
+- Output: 2
+- Explanation: The sum that is closest to the target is 2. (-1 + 2 + 1 = 2).
 
 和15题很类似，用三指针的方法。
 
