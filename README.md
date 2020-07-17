@@ -10,6 +10,8 @@
 
 [15-3Sum(三数之和为0)](https://github.com/yaowenqing/leetcode/blob/master/codes/15-3Sum.md)
 
+[16-3Sum Closest（最接近目标的三数之和）](https://github.com/yaowenqing/leetcode/blob/master/codes/16-3SumClosest.md)
+
 [20-Valid Parentheses(括号匹配)](https://github.com/yaowenqing/leetcode/blob/master/codes/20-Valid%20Parentheses.md)
 
 [√21-Merge Two Sorted Lists(合并两个有序链表)](https://github.com/yaowenqing/leetcode/blob/master/codes/21-MergeTwoSortedLists.md
