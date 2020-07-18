@@ -11,7 +11,7 @@
 slow指针会指向4这个节点，反转之后为1 2 3 4 1 2 3，此时slow节点下一个节点为1，依次对比1和1,2和2,3和3。全部一样，说明这是一个回文链表。终止条件由slow指针决定，是因为在这种情况下就不会考虑head所指的下一个数字4了（它是什么已经没有关系了）
 
 
-```
+```C++
 bool isPalindrome(ListNode* head) {
         if(head==NULL||head->next==NULL)
             return true;
@@ -48,7 +48,7 @@ bool isPalindrome(ListNode* head) {
 另一种方法：
 
 
-```
+```C++
 class Solution {
 public:
     ListNode*temp;
@@ -64,4 +64,40 @@ public:
     }
 
 };
+```
+
+Java版本：
+```java
+class Solution {
+    public boolean isPalindrome(ListNode head) {
+        if(head==null || head.next==null)
+            return true;
+        ListNode slow=head;
+        ListNode fast=head;
+        while(fast.next!=null && fast.next.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
+        }
+        slow.next=reverse(slow.next);
+        slow=slow.next;
+        while(slow!=null){
+            if(head.val!=slow.val)
+                return false;
+            head=head.next;
+            slow=slow.next;
+        }
+        return true;
+    }
+    public ListNode reverse(ListNode head){
+        ListNode pre=null;
+        ListNode next=null;
+        while(head!=null){
+            next=head.next;
+            head.next=pre;
+            pre=head;
+            head=next;
+        }
+        return pre;
+    }
+}
 ```
