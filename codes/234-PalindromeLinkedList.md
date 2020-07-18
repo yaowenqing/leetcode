@@ -101,3 +101,24 @@ class Solution {
     }
 }
 ```
+
+一个非常巧妙的利用递归的方法，直接递归到链表末尾，然后每次回溯的时候从后往前，依次和从前往后的currHead进行对比
+
+```java
+class Solution {
+    ListNode currHead;
+    public boolean isPalindrome(ListNode head) {
+        currHead=head;
+        return palin(head);
+    } 
+    private boolean palin(ListNode curr){
+        if(curr==null)
+            return true;
+        boolean sub=palin(curr.next);
+        if(!sub || currHead.val!=curr.val)
+            return false;
+        currHead=currHead.next;
+        return true;      
+    }
+}
+```
