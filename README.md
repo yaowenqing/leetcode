@@ -16,8 +16,7 @@
 
 [20-Valid Parentheses(括号匹配)](https://github.com/yaowenqing/leetcode/blob/master/codes/20-Valid%20Parentheses.md)
 
-[√21-Merge Two Sorted Lists(合并两个有序链表)](https://github.com/yaowenqing/leetcode/blob/master/codes/21-MergeTwoSortedLists.md
-)
+[√21-Merge Two Sorted Lists(合并两个有序链表)](https://github.com/yaowenqing/leetcode/blob/master/codes/21-MergeTwoSortedLists.md)
 
 [22-Generate Parentheses(列举所有括号对)](https://github.com/yaowenqing/leetcode/blob/master/codes/22-GenerateParentheses.md)
 
@@ -181,8 +180,7 @@
 
 [396-Rotate Function(旋转函数)](https://github.com/yaowenqing/leetcode/blob/master/codes/396-RotateFunction.md)
 
-[404-Sum of Left Leaves(二叉树左叶子节点之和)](https://github.com/yaowenqing/leetcode/blob/master/codes/404-SumOfLeftLeaves.md
-)
+[404-Sum of Left Leaves(二叉树左叶子节点之和)](https://github.com/yaowenqing/leetcode/blob/master/codes/404-SumOfLeftLeaves.md)
 
 [√442-Find All Duplicates in an Array(寻找数组里的冗余元素)](https://github.com/yaowenqing/leetcode/blob/master/codes/442-FindAllDuplicatesInArray.md)
 
