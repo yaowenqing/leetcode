@@ -4,7 +4,7 @@ The maximum depth is the number of nodes along the longest path from the root no
 
 ### 代码
 
-```
+```C++
 int maxDepth(TreeNode* root) {
     return root==NULL?0:max(maxDepth(root->left),maxDepth(root->right))+1;
 }
