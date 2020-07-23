@@ -62,3 +62,24 @@ int searchInsert(vector<int>& nums, int target) {
 
 补充一下对于经典的二分查找算法的解释： 
 [知乎-二分查找有几种写法？它们的区别是什么？](https://www.zhihu.com/question/36132386/answer/155438728)
+
+JAVA
+```java
+class Solution {
+    public int searchInsert(int[] nums, int target) {
+        int start=0;
+        int end=nums.length-1;
+
+        while(start<=end){
+            int mid=(start+end)/2;
+            if(nums[mid]==target)
+                return mid;
+            else if(nums[mid]>target)
+                end=mid-1;
+            else
+                start=mid+1;
+        }
+        return start;
+    }
+}
+```
