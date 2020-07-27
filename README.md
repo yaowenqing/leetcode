@@ -62,6 +62,8 @@
 
 [63-Unique Paths 2(方格棋盘的路径数目2)](https://github.com/yaowenqing/leetcode/blob/master/codes/63-UniquePaths2.md)
 
+[64-Minimum Path Sum(二维最短路径)](https://github.com/yaowenqing/leetcode/blob/master/codes/64-MinimumPathSum.md)
+
 [66-Plus One(数组代表的值加1)](https://github.com/yaowenqing/leetcode/blob/master/codes/66-PlusOne.md)
 
 [67-Add Binary(二进制加法)](https://github.com/yaowenqing/leetcode/tree/master/codes)
