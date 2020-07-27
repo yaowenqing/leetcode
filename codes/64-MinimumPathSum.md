@@ -2,17 +2,20 @@ Given a m x n grid filled with non-negative numbers, find a path from top left t
 
 - Note: You can only move either down or right at any point in time.
 
->Example:
-Input:
+Example:
+
+>Input:
 [
   [1,3,1],
   [1,5,1],
   [4,2,1]
 ]
 Output: 7
-Explanation: Because the path 1→3→1→1→1 minimizes the sum.
+
+>Explanation: Because the path 1→3→1→1→1 minimizes the sum.
 
 用动态规划的方法，创建一个res数组，数组中每个元素代表的意义是从左上角到这个位置的最短路径。最后返回res数组右下的值。
+
 动态规划转移方程：到该位置的最短路径=该位置的数字+min（到该位置上面元素的最短路径，到该位置左边元素的最短路径）
 
 ```java
