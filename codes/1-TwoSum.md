@@ -13,7 +13,7 @@ return [0, 1].
 
 最开始的代码
 
-```
+```C
 vector<int> twoSum(vector<int>& nums, int target) {
         vector<int>res;
         for(int i=0;i<nums.size()-1;i++){
@@ -32,7 +32,7 @@ vector<int> twoSum(vector<int>& nums, int target) {
 
 下面是时间复杂度为n的方法。
 
-```
+```C
 vector<int> twoSum(vector<int>& nums, int target) {
         unordered_map<int, int> hash;
         vector<int> result;
