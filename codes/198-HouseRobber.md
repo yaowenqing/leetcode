@@ -30,7 +30,7 @@ Given a list of non-negative integers representing the amount of money of each h
 
 代码：
 
-```
+```C
 int rob(vector<int>& nums) { 
         if(nums.size()==0)
             return 0;
