@@ -82,6 +82,8 @@
 
 [88-Merge Sorted Array(合并两个有序数组)](https://github.com/yaowenqing/leetcode/blob/master/codes/88-MergeSortedArray.md)
 
+[94-Binary Tree Inorder Traversal(二叉树中序遍历)](https://github.com/yaowenqing/leetcode/blob/master/codes/94-Binary%20Tree%20Inorder%20Traversal.md)
+
 [100-Same Tree(判断两个二叉树是否相同)](https://github.com/yaowenqing/leetcode/blob/master/codes/100-SameTree.md)
 
 [√101-SymmetricTree(对称二叉树)](https://github.com/yaowenqing/leetcode/blob/master/codes/101-SymmetricTree.md)
