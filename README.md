@@ -108,7 +108,7 @@
 
 [141-Linked List Cycle(判断链表是否有环)](https://github.com/yaowenqing/leetcode/blob/master/codes/141-LinkedListCycle.md)
 
-[144-Binary Tree Preorder Traversal(二叉树前序遍历)](https://github.com/yaowenqing/leetcode/blob/master/codes/144-BinaryTreePreorderTraversal.md)
+[√144-Binary Tree Preorder Traversal(二叉树前序遍历)](https://github.com/yaowenqing/leetcode/blob/master/codes/144-BinaryTreePreorderTraversal.md)
 
 [√145-Binary Tree Postorder Traversal(二叉树后序遍历)](https://github.com/yaowenqing/leetcode/blob/master/codes/145-BinaryTreePostorderTraversal.md)
 
