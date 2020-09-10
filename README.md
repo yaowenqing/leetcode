@@ -212,6 +212,8 @@
 
 [566-Reshape the Matrix(重塑数组)](https://github.com/yaowenqing/leetcode/blob/master/codes/566-ReshapeMatrix.md)
 
+[605-Can Place Flowers(摆放花朵)](https://github.com/yaowenqing/leetcode/blob/master/codes/605-CanPlaceFlowers.md)
+
 [617-Merge Two Binary Trees(合并两个二叉树)](https://github.com/yaowenqing/leetcode/blob/master/codes/617-MergeTwoBinaryTrees.md)
 
 [690-Employee Importance(下属员工总权重)](https://github.com/yaowenqing/leetcode/blob/master/codes/690-EmployeeImportance.md)
