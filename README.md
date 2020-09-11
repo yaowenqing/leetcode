@@ -230,3 +230,5 @@
 
 [852-Peak Index in a Mountain Array(山峰)](https://github.com/yaowenqing/leetcode/blob/master/codes/852-PeakIndexInMountainArray.md)
 
+[860-Lemonade Change(贪心：柠檬水找钱)](https://github.com/yaowenqing/leetcode/blob/master/codes/860-LemonadeChange.md)
+
