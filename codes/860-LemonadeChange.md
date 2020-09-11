@@ -12,9 +12,9 @@ Return true if and only if you can provide every customer with correct change.
 
 >Example 1:
 
-Input: [5,5,5,10,20]
+**Input: [5,5,5,10,20]**
 
-Output: true
+**Output: true**
 
 Explanation: 
 
@@ -28,22 +28,21 @@ Since all customers got correct change, we output true.
 
 >Example 2:
 
-Input: [5,5,10]
+**Input: [5,5,10]**
 
-Output: true
+**Output: true**
 
 >Example 3:
 
-Input: [10,10]
+**Input: [10,10]**
 
-Output: false
+**Output: false**
 
 >Example 4:
 
-Input: [5,5,10,10,20]
+**Input: [5,5,10,10,20]**
 
-
-Output: false
+**Output: false**
 
 Explanation: 
 
