@@ -192,6 +192,8 @@
 
 [371-Sum of Two Integers(两数之和)](https://github.com/yaowenqing/leetcode/blob/master/codes/371-SumOfTwoIntegers.md)
 
+[383-Ransom Note(第二个字符串里的字符能否组成第一个字符串)](https://github.com/yaowenqing/leetcode/blob/master/codes/383-RansomNote.md)
+
 [390-Elimination Game(淘汰游戏)](https://github.com/yaowenqing/leetcode/blob/master/codes/390-EliminationGame.md)
 
 [396-Rotate Function(旋转函数)](https://github.com/yaowenqing/leetcode/blob/master/codes/396-RotateFunction.md)
