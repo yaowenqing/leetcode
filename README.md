@@ -182,6 +182,8 @@
 
 [322-Coin Change(硬币组合)](https://github.com/yaowenqing/leetcode/blob/master/codes/322-CoinChange.md)
 
+[342-Power of Four(4的幂)](https://github.com/yaowenqing/leetcode/blob/master/codes/342-PowerofFour.md)
+
 [344-Reverse String(字符串翻转)](https://github.com/yaowenqing/leetcode/blob/master/codes/344-ReverseString.md)
 
 [345-Reverse Vowels of a String(仅翻转字符串的元音字母)](https://github.com/yaowenqing/leetcode/blob/master/codes/345-ReverseVowelsOfString.md)
