@@ -72,6 +72,8 @@
 
 [70-Climbing Stairs(爬楼梯)](https://github.com/yaowenqing/leetcode/blob/master/codes/70-ClimbingStairs.md)
 
+[73-Set Matrix Zeroes(数组元素置为0)](https://github.com/yaowenqing/leetcode/blob/master/codes/73-SetMatrixZeroes.md)
+
 [75-Sort Colors(按色彩排序)](https://github.com/yaowenqing/leetcode/blob/master/codes/75-SortColors.md)
 
 [77-Combinations(全部的组合)](https://github.com/yaowenqing/leetcode/blob/master/codes/77-Combinations.md)
