@@ -10,7 +10,7 @@ Example:
 
 最朴素的方法：
 
-```
+```C++
 ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
         ListNode*dummy = new ListNode(-1);
         ListNode*cur=dummy;
@@ -29,9 +29,32 @@ ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
     }
 ```
 
-递归的方法：
-
+Java版本的解法：
+```java
+class Solution {
+    public ListNode mergeTwoLists(ListNode l1, ListNode l2) {        
+        ListNode dummy=new ListNode(-1);
+        ListNode cur=dummy;
+        while(l1!=null&&l2!=null){
+            if(l1.val<=l2.val){
+                cur.next=l1;
+                l1=l1.next;
+            }else{
+                cur.next=l2;
+                l2=l2.next;
+            }
+            cur=cur.next;
+        }
+        cur.next=l1!=null?l1:l2;
+        return dummy.next;   
+    }
+}
 ```
+
+
+递归的方法(C++)：
+
+```C++
 ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
         if(!l1)
             return l2;
