@@ -52,7 +52,7 @@ class Solution {
 ```
 
 
-递归的方法(C++)：
+递归解法(C++)：
 
 ```C++
 ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
