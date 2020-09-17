@@ -12,6 +12,8 @@
 
 [16-3Sum Closest（最接近目标的三数之和）](https://github.com/yaowenqing/leetcode/blob/master/codes/16-3SumClosest.md)
 
+[17.电话号码的字母组合](https://github.com/yaowenqing/leetcode/blob/master/codes/17.md)
+
 [18-4Sum（四数之和）](https://github.com/yaowenqing/leetcode/blob/master/codes/18-4Sum.md)
 
 [20-Valid Parentheses(括号匹配)](https://github.com/yaowenqing/leetcode/blob/master/codes/20-Valid%20Parentheses.md)
