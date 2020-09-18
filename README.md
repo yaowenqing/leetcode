@@ -42,6 +42,8 @@
 
 [40-Combination Sum 2（组合和2）](https://github.com/yaowenqing/leetcode/blob/master/codes/40-CombinationSum2.md)
 
+[41-缺失的第一个正数](https://github.com/yaowenqing/leetcode/blob/master/codes/41.md)
+
 [42-Trapping Rain Water(接雨水)](https://github.com/yaowenqing/leetcode/blob/master/codes/42-TrappingRainWater.md)
 
 [46-Permutations(全排列)](https://github.com/yaowenqing/leetcode/blob/master/codes/46-permutations.md)
