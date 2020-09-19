@@ -4,7 +4,9 @@
 
 ### 代码
 
-```
+递归，C++版本：
+
+```C++
 int sumOfLeftLeaves(TreeNode* root) {
     if (!root) return 0;
     if (root->left && !root->left->left && !root->left->right) 
@@ -12,4 +14,18 @@ int sumOfLeftLeaves(TreeNode* root) {
     return sumOfLeftLeaves(root->left) + sumOfLeftLeaves(root->right);
 }
 
+```
+
+java版本：
+
+```java
+class Solution {
+    public int sumOfLeftLeaves(TreeNode root) {
+        if(root==null)
+            return 0;
+        if(root.left!=null && root.left.left==null && root.left.right==null)
+            return root.left.val+sumOfLeftLeaves(root.right);
+        return sumOfLeftLeaves(root.left)+sumOfLeftLeaves(root.right);
+    }
+}
 ```
