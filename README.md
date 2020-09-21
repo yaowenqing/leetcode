@@ -218,6 +218,8 @@
 
 [518-Coin Change 2(交换硬币2)](https://github.com/yaowenqing/leetcode/blob/master/codes/518-CoinChange2.md)
 
+[538-把二叉搜索树转换为累加树](https://github.com/yaowenqing/leetcode/blob/master/codes/538.md)
+
 [557-反转字符串中的单词 III](https://github.com/yaowenqing/leetcode/blob/master/codes/557.md)
 
 [560-Subarray Sum Equals K(和为k的子数组总数)](https://github.com/yaowenqing/leetcode/blob/master/codes/560-SubarraySumEqualsK.md)
