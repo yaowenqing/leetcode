@@ -210,6 +210,8 @@
 
 [404-Sum of Left Leaves(二叉树左叶子节点之和)](https://github.com/yaowenqing/leetcode/blob/master/codes/404-SumOfLeftLeaves.md)
 
+[412-Fizz Buzz](https://github.com/yaowenqing/leetcode/blob/master/codes/412.md)
+
 [441-排列硬币](https://github.com/yaowenqing/leetcode/blob/master/codes/441.md)
 
 [√442-Find All Duplicates in an Array(寻找数组里的冗余元素)](https://github.com/yaowenqing/leetcode/blob/master/codes/442-FindAllDuplicatesInArray.md)
