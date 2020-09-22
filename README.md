@@ -128,6 +128,8 @@
 
 [√145-Binary Tree Postorder Traversal(二叉树后序遍历)](https://github.com/yaowenqing/leetcode/blob/master/codes/145-BinaryTreePostorderTraversal.md)
 
+[√148-排序链表](https://github.com/yaowenqing/leetcode/blob/master/codes/148.md)
+
 [155-MinStack(简易的堆栈)](https://github.com/yaowenqing/leetcode/blob/master/codes/155-MinStack.md)
 
 [167-Two Sum II(两数相加II)](https://github.com/yaowenqing/leetcode/blob/master/codes/167-TwoSumII.md)
