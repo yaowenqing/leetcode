@@ -254,4 +254,6 @@
 
 [860-Lemonade Change(贪心：柠檬水找钱)](https://github.com/yaowenqing/leetcode/blob/master/codes/860-LemonadeChange.md)
 
+[876-链表的中间结点](https://github.com/yaowenqing/leetcode/blob/master/codes/876.md)
+
 [977-有序数组的平方](https://github.com/yaowenqing/leetcode/blob/master/codes/977.md)
