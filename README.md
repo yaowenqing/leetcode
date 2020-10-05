@@ -270,6 +270,8 @@
 
 [1426-数元素](https://github.com/yaowenqing/leetcode/blob/master/codes/1426.md)
 
+[1598-文件夹操作日志搜集器](https://github.com/yaowenqing/leetcode/blob/master/codes/1598.md)
+
 [1608-特殊数组的特征值](https://github.com/yaowenqing/leetcode/blob/master/codes/1608.md)
 
 [1609-奇偶树](https://github.com/yaowenqing/leetcode/blob/master/codes/1609.md)
