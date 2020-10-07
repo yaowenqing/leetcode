@@ -52,7 +52,7 @@ void sortColors(vector<int>& nums) {
 ```   
 
 Java方法：
-```
+```java
 class Solution {
     public void sortColors(int[] nums) {
         int num0=0;
@@ -74,6 +74,28 @@ class Solution {
             }else{
                 nums[i]=2;
             }
+        }
+    }
+}
+```
+
+Java双指针：
+```java
+class Solution {
+    public void sortColors(int[] nums) {
+        int zero=0,two=nums.length-1;
+        for(int i=0;i<=two;i++){
+            if(nums[i]==0){
+                nums[i]=nums[zero];
+                nums[zero]=0;
+                zero++;
+            }    
+            if(nums[i]==2){
+                nums[i]=nums[two];
+                nums[two]=2;
+                two--;
+                i--;
+            }      
         }
     }
 }
