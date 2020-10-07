@@ -11,12 +11,12 @@ Input: [2,0,2,1,1,0]
 Output: [0,0,1,1,2,2]
 
 Follow up:
-- A rather straight forward solution is a two-pass algorithm using counting sort.First, iterate the array counting number of 0's, 1's, and 2's, then overwrite array with total number of 0's, then 1's and followed by 2's. 
-- Could you come up with a one-pass algorithm using only constant space?
+- 一个直观的解决方案是使用计数排序的两趟扫描算法。首先，迭代计算出0、1 和 2 元素的个数，然后按照0、1、2的排序，重写当前数组。
+- 你能想出一个仅使用常数空间的一趟扫描算法吗？
 
 两次遍历数组的方法：
 
-```
+```C++
 void sortColors(vector<int>& nums) {
         vector <int>color(3);
         for(int num:nums)
@@ -39,7 +39,7 @@ zero指针指向开头的位置，two指针指向末尾的位置。
 
 如果遇到1就继续向前遍历
 
-```
+```C++
 void sortColors(vector<int>& nums) {
         int zero=0,two=nums.size()-1;
         for(int i=0;i<=two;i++){
