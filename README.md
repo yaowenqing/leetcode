@@ -112,6 +112,8 @@
 
 [111-Minimum Depth of Binary Tree(二叉树的最小深度)](https://github.com/yaowenqing/leetcode/blob/master/codes/111-MinimumDepthofBinaryTree.md)
 
+[112-路径总和](https://github.com/yaowenqing/leetcode/blob/master/codes/112.md)
+
 [113-路径总和 II](https://github.com/yaowenqing/leetcode/blob/master/codes/113.md)
 
 [117-填充每个节点的下一个右侧节点指针 II](https://github.com/yaowenqing/leetcode/blob/master/codes/117.md)
