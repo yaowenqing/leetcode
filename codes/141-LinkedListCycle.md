@@ -9,7 +9,7 @@ Given a linked list, determine if it has a cycle in it.
 
 代码：
 
-```
+```C++
 bool hasCycle(ListNode *head) {
         ListNode*slow=head,*fast=head;
         while(fast&&fast->next){
@@ -20,4 +20,22 @@ bool hasCycle(ListNode *head) {
         }
         return false;
     }
+```
+
+JAVA:
+
+```java
+public class Solution {
+    public boolean hasCycle(ListNode head) {
+        ListNode slow=head;
+        ListNode fast=head;
+        while(fast!=null&&fast.next!=null){
+            fast=fast.next.next;
+            slow=slow.next;
+            if(slow==fast)
+                return true;
+        }
+        return false;        
+    }
+}
 ```
