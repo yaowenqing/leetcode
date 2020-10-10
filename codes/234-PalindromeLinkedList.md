@@ -102,6 +102,33 @@ class Solution {
 }
 ```
 
+时隔几个月又写了几遍，这次没有写另一个翻转函数，而是直接把翻转部分写在主算法中了。
+```java
+class Solution {
+    public boolean isPalindrome(ListNode head) {
+        ListNode fast=head,slow=head;
+        while(fast!=null&&fast.next!=null){
+            fast=fast.next.next;
+            slow=slow.next;
+        }
+        ListNode nextNode=null,temp=null;
+        while(slow!=null){
+            nextNode=slow.next;
+            slow.next=temp;
+            temp=slow;
+            slow=nextNode;
+        }
+        while(temp!=null){
+            if(temp.val!=head.val)
+                return false;
+            temp=temp.next;
+            head=head.next;
+        }
+        return true;
+    }
+}
+```
+
 一个非常巧妙的利用递归的方法，直接递归到链表末尾，然后每次回溯的时候从后往前，依次和从前往后的currHead进行对比
 
 ```java
