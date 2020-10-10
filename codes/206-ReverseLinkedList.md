@@ -1,4 +1,4 @@
-```
+```C++
 ListNode* reverseList(ListNode* head) {
         ListNode*temp=NULL,*nextNode=NULL;
         while(head){
@@ -9,4 +9,20 @@ ListNode* reverseList(ListNode* head) {
         }
         return temp;
     }
+```
+
+Java:
+```java
+class Solution {
+    public ListNode reverseList(ListNode head) {
+        ListNode temp=null,nextNode=null;
+        while(head!=null){
+            nextNode=head.next;
+            head.next=temp;
+            temp=head;
+            head=nextNode;
+        }
+        return temp;
+    }
+}
 ```
