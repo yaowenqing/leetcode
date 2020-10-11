@@ -232,6 +232,8 @@
 
 [412-Fizz Buzz](https://github.com/yaowenqing/leetcode/blob/master/codes/412.md)
 
+[416-分割等和子集](https://github.com/yaowenqing/leetcode/blob/master/codes/416.md)
+
 [441-排列硬币](https://github.com/yaowenqing/leetcode/blob/master/codes/441.md)
 
 [√442-Find All Duplicates in an Array(寻找数组里的冗余元素)](https://github.com/yaowenqing/leetcode/blob/master/codes/442-FindAllDuplicatesInArray.md)
