@@ -10,12 +10,16 @@ Given 1->2->3->4, you should return the list as 2->1->4->3.
 
 递归的方法
 
-```
-ListNode* swapPairs(ListNode* head) {
-        if(head==NULL||head->next==NULL)
+```java
+class Solution {
+    public ListNode swapPairs(ListNode head) {
+        if(head==null||head.next==null)   
             return head;
-        swapPairs(head->next->next);
-        swap(head->val,head->next->val);
-        return head;
+        ListNode temp=head.next;
+        head.next=swapPairs(head.next.next);
+        temp.next=head;
+        return temp;
+    }
 }
 ```
+
