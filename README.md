@@ -292,5 +292,7 @@
 
 [剑指 Offer 03. 数组中重复的数字](https://github.com/yaowenqing/leetcode/blob/master/codes/jz03.md)
 
+[剑指 Offer 04. 二维数组中的查找](https://github.com/yaowenqing/leetcode/blob/master/codes/jz04.md)
+
 [剑指 Offer 10. 斐波那契数列](https://github.com/yaowenqing/leetcode/blob/master/codes/jz10.md)
 
