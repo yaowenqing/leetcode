@@ -300,6 +300,8 @@
 
 [剑指 Offer 10. 斐波那契数列](https://github.com/yaowenqing/leetcode/blob/master/codes/jz10.md)
 
+[剑指 Offer 24. 反转链表](https://github.com/yaowenqing/leetcode/blob/master/codes/jz24.md)
+
 [剑指 Offer 25. 合并两个排序的链表](https://github.com/yaowenqing/leetcode/blob/master/codes/jz25.md)
 
 [剑指 Offer 31. 栈的压入、弹出序列](https://github.com/yaowenqing/leetcode/blob/master/codes/jz31.md)
