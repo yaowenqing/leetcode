@@ -288,7 +288,7 @@
 
 [1609-奇偶树](https://github.com/yaowenqing/leetcode/blob/master/codes/1609.md)
 
-剑指offer：
+--------------------------------------剑指offer--------------------------------------：
 
 [剑指 Offer 03. 数组中重复的数字](https://github.com/yaowenqing/leetcode/blob/master/codes/jz03.md)
 
@@ -300,8 +300,11 @@
 
 [剑指 Offer 10. 斐波那契数列](https://github.com/yaowenqing/leetcode/blob/master/codes/jz10.md)
 
+[剑指 Offer 25. 合并两个排序的链表](https://github.com/yaowenqing/leetcode/blob/master/codes/jz25.md)
+
 [剑指 Offer 31. 栈的压入、弹出序列](https://github.com/yaowenqing/leetcode/blob/master/codes/jz31.md)
 
 [剑指 Offer 32. 层次遍历二叉树](https://github.com/yaowenqing/leetcode/blob/master/codes/jz32.md)
+
 
 
