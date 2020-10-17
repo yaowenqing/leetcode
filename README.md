@@ -54,6 +54,10 @@
 
 [49-Group Anagrams(同字母异序词分组)](https://github.com/yaowenqing/leetcode/blob/master/codes/49-GroupAnagrams.md)
 
+[51. N 皇后](https://github.com/yaowenqing/leetcode/blob/master/codes/51.md)
+
+[52. N皇后 II](https://github.com/yaowenqing/leetcode/blob/master/codes/52.md)
+
 [√53-Maximum Subarray(和最大的子数组)](https://github.com/yaowenqing/leetcode/blob/master/codes/53-MaximumSubarray.md)
 
 [54-Spiral Matrix(旋转矩阵)](https://github.com/yaowenqing/leetcode/blob/master/codes/54-SpiralMatrix.md)
