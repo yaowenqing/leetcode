@@ -146,6 +146,8 @@
 
 [√142-环形链表 II](https://github.com/yaowenqing/leetcode/blob/master/codes/142.md)
 
+[143. 重排链表](https://github.com/yaowenqing/leetcode/blob/master/codes/143.md)
+
 [√144-Binary Tree Preorder Traversal(二叉树前序遍历)](https://github.com/yaowenqing/leetcode/blob/master/codes/144-BinaryTreePreorderTraversal.md)
 
 [√145-Binary Tree Postorder Traversal(二叉树后序遍历)](https://github.com/yaowenqing/leetcode/blob/master/codes/145-BinaryTreePostorderTraversal.md)
