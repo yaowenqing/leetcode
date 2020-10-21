@@ -286,6 +286,8 @@
 
 [876-链表的中间结点](https://github.com/yaowenqing/leetcode/blob/master/codes/876.md)
 
+[925. 长按键入](https://github.com/yaowenqing/leetcode/blob/master/codes/925.md)
+
 [977-有序数组的平方](https://github.com/yaowenqing/leetcode/blob/master/codes/977.md)
 
 [1426-数元素](https://github.com/yaowenqing/leetcode/blob/master/codes/1426.md)
