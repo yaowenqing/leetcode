@@ -292,6 +292,8 @@
 
 [977-有序数组的平方](https://github.com/yaowenqing/leetcode/blob/master/codes/977.md)
 
+[1365. 有多少小于当前数字的数字](https://github.com/yaowenqing/leetcode/blob/master/codes/1365.md)
+
 [1426-数元素](https://github.com/yaowenqing/leetcode/blob/master/codes/1426.md)
 
 [1598-文件夹操作日志搜集器](https://github.com/yaowenqing/leetcode/blob/master/codes/1598.md)
