@@ -320,6 +320,8 @@
 
 [剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://github.com/yaowenqing/leetcode/blob/master/codes/jz21.md)
 
+[剑指 Offer 22. 链表中倒数第k个节点](https://github.com/yaowenqing/leetcode/blob/master/codes/jz22.md)
+
 [剑指 Offer 24. 反转链表](https://github.com/yaowenqing/leetcode/blob/master/codes/jz24.md)
 
 [剑指 Offer 25. 合并两个排序的链表](https://github.com/yaowenqing/leetcode/blob/master/codes/jz25.md)
