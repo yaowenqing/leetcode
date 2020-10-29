@@ -338,5 +338,6 @@
 
 [剑指 Offer 32. 层次遍历二叉树](https://github.com/yaowenqing/leetcode/blob/master/codes/jz32.md)
 
+[剑指 Offer 55. 二叉树的深度](https://github.com/yaowenqing/leetcode/blob/master/codes/jz55.md)
 
 
