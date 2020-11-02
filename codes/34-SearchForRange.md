@@ -20,7 +20,7 @@ return [3, 3].
 
 我的思路是用二分查找的办法先找到等于target的位置，然后扩展这个位置，找到这个位置附近所有等于target的其他位置，然后定位起始点和终点。
 
-```
+```C++
 vector<int> searchRange(vector<int>& nums, int target) {
         vector<int> res;
         int n=nums.size();
@@ -59,7 +59,7 @@ vector<int> searchRange(vector<int>& nums, int target) {
 在网上看到的一个更简洁的解法如下：
 
 
-```
+```C++
 vector<int> searchRange(vector<int>& nums, int target) {
         int idx1 = lower_bound(nums, target);
         int idx2 = lower_bound(nums, target+1)-1;
