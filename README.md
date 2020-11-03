@@ -346,4 +346,6 @@
 
 [剑指 Offer 55. 二叉树的深度](https://github.com/yaowenqing/leetcode/blob/master/codes/jz55.md)
 
+[剑指 Offer 56 - 数组中数字出现的次数](https://github.com/yaowenqing/leetcode/blob/master/codes/jz56.md)
+
 
