@@ -290,6 +290,8 @@
 
 [925. 长按键入](https://github.com/yaowenqing/leetcode/blob/master/codes/925.md)
 
+[941. 有效的山脉数组](https://github.com/yaowenqing/leetcode/blob/master/codes/941.md)
+
 [977-有序数组的平方](https://github.com/yaowenqing/leetcode/blob/master/codes/977.md)
 
 [1207. 独一无二的出现次数](https://github.com/yaowenqing/leetcode/blob/master/codes/1207.md)
