@@ -342,6 +342,8 @@
 
 [剑指 Offer 53 - 在排序数组中查找数字](https://github.com/yaowenqing/leetcode/blob/master/codes/jz53.md)
 
+[剑指 Offer 54. 二叉搜索树的第k大节点](https://github.com/yaowenqing/leetcode/blob/master/codes/jz54.md)
+
 [剑指 Offer 55. 二叉树的深度](https://github.com/yaowenqing/leetcode/blob/master/codes/jz55.md)
 
 
