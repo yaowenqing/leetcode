@@ -340,6 +340,8 @@
 
 [剑指 Offer 32. 层次遍历二叉树](https://github.com/yaowenqing/leetcode/blob/master/codes/jz32.md)
 
+[剑指 Offer 42. 连续子数组的最大和](https://github.com/yaowenqing/leetcode/blob/master/codes/j42.md)
+
 [剑指 Offer 53 - 在排序数组中查找数字](https://github.com/yaowenqing/leetcode/blob/master/codes/jz53.md)
 
 [剑指 Offer 54. 二叉搜索树的第k大节点](https://github.com/yaowenqing/leetcode/blob/master/codes/jz54.md)
