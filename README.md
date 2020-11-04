@@ -348,4 +348,7 @@
 
 [剑指 Offer 56 - 数组中数字出现的次数](https://github.com/yaowenqing/leetcode/blob/master/codes/jz56.md)
 
+[剑指 Offer 57. 和为s的两个数字](https://github.com/yaowenqing/leetcode/blob/master/codes/jz57.md)
+
+[剑指 Offer 57 - II. 和为s的连续正数序列](https://github.com/yaowenqing/leetcode/blob/master/codes/jz57_2.md)
 
