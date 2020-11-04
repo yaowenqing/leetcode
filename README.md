@@ -352,3 +352,5 @@
 
 [剑指 Offer 57 - II. 和为s的连续正数序列](https://github.com/yaowenqing/leetcode/blob/master/codes/jz57_2.md)
 
+[剑指 Offer 58 -  翻转字符串](https://github.com/yaowenqing/leetcode/blob/master/codes/jz58.md)
+
