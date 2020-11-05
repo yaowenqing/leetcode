@@ -65,7 +65,7 @@ int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
     }
 ```
 
-上面是几年前用java写的，空间复杂度也没有优化，下面是用java写的优化过空间复杂度的代码：
+上面是几年前用C++写的，空间复杂度也没有优化，下面是用java写的优化过空间复杂度的代码：
 ```java
 class Solution {
     public int uniquePathsWithObstacles(int[][] obstacleGrid) {
