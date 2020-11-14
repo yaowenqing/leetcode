@@ -344,7 +344,9 @@
 
 [剑指 Offer 32. 层次遍历二叉树](https://github.com/yaowenqing/leetcode/blob/master/codes/jz32.md)
 
-[剑指 Offer 42. 连续子数组的最大和](https://github.com/yaowenqing/leetcode/blob/master/codes/j42.md)
+[剑指 Offer 42. 连续子数组的最大和](https://github.com/yaowenqing/leetcode/blob/master/codes/jz42.md)
+
+[剑指 Offer 52. 两个链表的第一个公共节点](https://github.com/yaowenqing/leetcode/blob/master/codes/jz52.md)
 
 [剑指 Offer 53 - 在排序数组中查找数字](https://github.com/yaowenqing/leetcode/blob/master/codes/jz53.md)
 
