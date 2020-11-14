@@ -296,6 +296,8 @@
 
 [977-有序数组的平方](https://github.com/yaowenqing/leetcode/blob/master/codes/977.md)
 
+[1122. 数组的相对排序](https://github.com/yaowenqing/leetcode/blob/master/codes/1122.md)
+
 [1207. 独一无二的出现次数](https://github.com/yaowenqing/leetcode/blob/master/codes/1207.md)
 
 [1365. 有多少小于当前数字的数字](https://github.com/yaowenqing/leetcode/blob/master/codes/1365.md)
