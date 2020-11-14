@@ -346,6 +346,8 @@
 
 [剑指 Offer 42. 连续子数组的最大和](https://github.com/yaowenqing/leetcode/blob/master/codes/jz42.md)
 
+[剑指 Offer 47. 礼物的最大价值]((https://github.com/yaowenqing/leetcode/blob/master/codes/jz47.md))
+
 [剑指 Offer 52. 两个链表的第一个公共节点](https://github.com/yaowenqing/leetcode/blob/master/codes/jz52.md)
 
 [剑指 Offer 53 - 在排序数组中查找数字](https://github.com/yaowenqing/leetcode/blob/master/codes/jz53.md)
