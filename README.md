@@ -350,7 +350,7 @@
 
 [剑指 Offer 46. 把数字翻译成字符串](https://github.com/yaowenqing/leetcode/blob/master/codes/jz46.md)
 
-[剑指 Offer 47. 礼物的最大价值]((https://github.com/yaowenqing/leetcode/blob/master/codes/jz47.md))
+[剑指 Offer 47. 礼物的最大价值](https://github.com/yaowenqing/leetcode/blob/master/codes/jz47.md)
 
 [剑指 Offer 52. 两个链表的第一个公共节点](https://github.com/yaowenqing/leetcode/blob/master/codes/jz52.md)
 
