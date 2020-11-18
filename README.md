@@ -344,6 +344,8 @@
 
 [剑指 Offer 32. 层次遍历二叉树](https://github.com/yaowenqing/leetcode/blob/master/codes/jz32.md)
 
+[剑指 Offer 38. 字符串的排列](https://github.com/yaowenqing/leetcode/blob/master/codes/jz38.md)
+
 [剑指 Offer 42. 连续子数组的最大和](https://github.com/yaowenqing/leetcode/blob/master/codes/jz42.md)
 
 [剑指 Offer 46. 把数字翻译成字符串](https://github.com/yaowenqing/leetcode/blob/master/codes/jz46.md)
