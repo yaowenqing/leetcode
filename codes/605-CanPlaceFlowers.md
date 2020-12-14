@@ -40,7 +40,14 @@ class Solution {
 }
 ```
 
-一个go语言版本：
+一个go语言版本：实现思路更巧妙：
+
+不考虑后面，只看前面。
+
+本盆是0，只要前面是0，就把花种下。
+
+本盆是1，前面是1，说明种错了，把前一盆拔出来。
+
 ```go
 func canPlaceFlowers(flowerbed []int, n int) bool {
     for i :=0 ;i< len(flowerbed);i++ {
