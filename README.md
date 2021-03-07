@@ -200,7 +200,7 @@
 
 [231-Power of Two(判断一个数是否是2的次幂)](https://github.com/yaowenqing/leetcode/blob/master/codes/231-PowerOfTwo.md)
 
-[232. 用栈实现队列]([235-二叉搜索树的最近公共祖先](https://github.com/yaowenqing/leetcode/blob/master/codes/232.md))
+[232. 用栈实现队列](https://github.com/yaowenqing/leetcode/blob/master/codes/232.md))
 
 [234-Palindrome Linked List(回文链表)](https://github.com/yaowenqing/leetcode/blob/master/codes/234-PalindromeLinkedList.md)
 
