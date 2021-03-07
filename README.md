@@ -220,6 +220,10 @@
 
 [292-Nim Game(博弈小游戏)](https://github.com/yaowenqing/leetcode/blob/master/codes/292-NimGame.md)
 
+[303. 区域和检索 - 数组不可变](https://github.com/yaowenqing/leetcode/blob/master/codes/303.md)
+
+[304. 二维区域和检索 - 矩阵不可变](https://github.com/yaowenqing/leetcode/blob/master/codes/304.md)
+
 [322-Coin Change(硬币组合)](https://github.com/yaowenqing/leetcode/blob/master/codes/322-CoinChange.md)
 
 [342-Power of Four(4的幂)](https://github.com/yaowenqing/leetcode/blob/master/codes/342-PowerofFour.md)
