@@ -352,6 +352,8 @@
 
 [剑指 Offer 28. 对称的二叉树](https://github.com/yaowenqing/leetcode/blob/master/codes/jz28.md)
 
+[剑指 Offer 29. 顺时针打印矩阵](https://github.com/yaowenqing/leetcode/blob/master/codes/jz29.md)
+
 [剑指 Offer 31. 栈的压入、弹出序列](https://github.com/yaowenqing/leetcode/blob/master/codes/jz31.md)
 
 [剑指 Offer 32. 层次遍历二叉树](https://github.com/yaowenqing/leetcode/blob/master/codes/jz32.md)
