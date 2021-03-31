@@ -75,3 +75,20 @@ Adding 3 to [], [1], [2] and [1, 2]:
        return res; 
     }
 ```
+
+JAVA
+```java
+public List<List<Integer>> subsets(int[] nums) {
+        List<List<Integer>> res =new ArrayList<>();
+        res.add(new ArrayList<>());
+        for(int num:nums){
+            int size=res.size();
+            for(int i=0;i<size;i++){
+                List<Integer> subres=new ArrayList<>(res.get(i));
+                subres.add(num);
+                res.add(subres);
+            }
+        }
+        return res;
+    }
+```
