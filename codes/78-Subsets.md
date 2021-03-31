@@ -32,7 +32,7 @@ Using [1, 2, 3] as an example, 1 appears once in every two consecutive subsets, 
 
 [], [1], [2], [1, 2], [3], [1, 3], [2, 3], [1, 2, 3]
 
-```
+```C++
  vector<vector<int>> subsets(vector<int>& nums) {
         int n=nums.size(),p=1<<n;
         vector<vector<int>> res(p);
@@ -62,7 +62,7 @@ Adding 3 to [], [1], [2] and [1, 2]:
 
 [[], [1], [2], [1, 2], [3], [1, 3], [2, 3], [1, 2, 3]].
 
-```
+```C++
  vector<vector<int>> subsets(vector<int>& nums) {
         vector<vector<int>> res={{}};
         for(int num:nums){
