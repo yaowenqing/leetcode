@@ -8,24 +8,9 @@ Given 1->1->2, return 1->2.
 
 Given 1->1->2->3->3, return 1->2->3. 
 
-### 代码：(21ms版本)
+### 代码：
 
-```
-ListNode* deleteDuplicates(ListNode* head) {
-        ListNode*cur=head;
-        while(cur!=NULL&&cur->next!=NULL){
-            if(cur->next->val==cur->val)
-                cur->next=cur->next->next;
-            else
-                cur=cur->next;
-        }
-        return head;
-    }
-```
-
-稍微改一改可以快8ms：（13ms版本）
-
-```
+```C++
 ListNode* deleteDuplicates(ListNode* head) {
         ListNode* cur=head;
         while(cur && cur->next){
@@ -39,12 +24,17 @@ ListNode* deleteDuplicates(ListNode* head) {
     }
 ```
 
-这启发我，在处理大部分链表问题，写while判断条件的时候，最好写成类似
+### JAVA
 
-> while(cur && cur->next)
-
-的形式，而不是
-
->while(cur!=NULL && cur->next!=NULL)
-
-的形式。
+```java
+public ListNode deleteDuplicates(ListNode head) {
+        ListNode dummy=head;
+        while(head!=null&&head.next!=null){
+            if(head.val==head.next.val)
+                head.next=head.next.next;
+            else
+                head=head.next;
+        }
+        return dummy;
+    }
+```
