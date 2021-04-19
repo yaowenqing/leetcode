@@ -16,7 +16,7 @@ Given nums = [3,2,2,3], val = 3,
 
 ### 代码
 
-```
+```C++
 int removeElement(vector<int>& nums, int val) {
         int sign=0;
         for(int i=0;i<nums.size();i++){
@@ -26,5 +26,17 @@ int removeElement(vector<int>& nums, int val) {
                 nums[i-sign]=nums[i];
         }
         return nums.size()-sign;
+    }
+```
+
+### JAVA
+```java
+public int removeElement(int[] nums, int val) {
+        int k=0;
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]!=val)
+                nums[k++]=nums[i];
+        }
+        return k;
     }
 ```
