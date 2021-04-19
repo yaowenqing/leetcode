@@ -16,7 +16,7 @@ It doesn’t matter what you leave beyond the new length.
 
 ### 代码
 
-```
+```C++
 int removeDuplicates(vector<int>& nums) {
     int dup=0;
     for(int i=1;i<nums.size();i++){
@@ -27,4 +27,19 @@ int removeDuplicates(vector<int>& nums) {
     }
     return nums.size()-dup;
 }
+```
+
+## JAVA双指针
+```java
+public int removeDuplicates(int[] nums) {
+        if(nums.length==0)
+            return 0;
+        int k=1;
+        for(int i=1;i<nums.length;i++){
+            if(nums[i]!=nums[i-1]){
+                nums[k++]=nums[i];
+            }
+        }
+        return k;
+    }
 ```
